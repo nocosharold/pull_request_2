@@ -65,4 +65,4 @@ describe("Testing add()", function(){
     });
 })
 
-// pull request 2
+// pull request 2 add asterisk
